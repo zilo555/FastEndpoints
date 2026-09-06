@@ -16,11 +16,7 @@ Please visit the official website for detailed documentation.
 
 ## Meet Our Sponsors:
 
-[![Sent](.images/sent.png)](https://sent.dm)
-
-[Sent Unified Messaging API](https://sent.dm) - Sent is a unified API for messaging across SMS, RCS, and apps like WhatsApp.
-
----
+- [DodoTech](https://dodotech.dev/) - DodoTech is a software company that builds custom software tailored to each client's specific needs, from web applications to system integrations.
 
 - [VeeFriends](https://veefriends.com/) - VeeFriends is an innovative entertainment company that uses its unique art, compelling storytelling, and collectibles to enhance its intellectual property.
 
